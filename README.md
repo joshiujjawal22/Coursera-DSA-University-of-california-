@@ -6,4 +6,7 @@
 
 *Every week contains pdf inside the folder,in which problem statement is explained.* 
 
->> Course Link: [Coursera-DSA-University-of-california](https://www.coursera.org/specializations/data-structures-algorithms)
+**If you find any issue in the solutions,raise the issue.**
+
+> Course Link: [Coursera-DSA-University-of-california](https://www.coursera.org/specializations/data-structures-algorithms)
+> Note: I have made this solutions for the ones who tried to solve the problem lot of times but still not able to pass the test case.
